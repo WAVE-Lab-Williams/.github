@@ -27,7 +27,7 @@ In short, our research delves into the (often) surprising answers to questions s
 <td width="33%" valign="top">
 
 ### 🔎 Attention
-How does mind selects and processes relevant information -- despite the world being a giant mass of constant, undiffrentiated/unsegmented, raw sensory input? 
+How does mind selects and processes relevant information -- despite the constant flood of raw sensory input? 
 
 </td>
 <td width="33%" valign="top">
