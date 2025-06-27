@@ -4,11 +4,11 @@
   
 # 🧠 WAVE Lab
 ### Wong Attention Vision Encoding Laboratory
-#### Department of Cognitive Science • Williams College
+#### Department of Psychology • Williams College
 
-[![Website](https://img.shields.io/badge/Lab_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/WAVE-Lab-Williams/WAVE-Lab-Williams)
-[![Getting Started](https://img.shields.io/badge/Getting_Started-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/WAVE-Lab-Williams/WAVE-Lab-Williams)
-[![PI Profile](https://img.shields.io/badge/PI_Profile-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WAVE-Lab-Williams/WAVE-Lab-Williams)
+[![Lab Website](https://img.shields.io/badge/Lab_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wave-lab-williams.github.io/)
+[![Getting Started](https://img.shields.io/badge/Getting_Started-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](https://wave-lab-williams.github.io/getting-started.html)
+[![PI Website](https://img.shields.io/badge/PI_Profile-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://kimwwong.github.io/)
 
 </div>
 
@@ -16,7 +16,9 @@
 
 ## 🔬 About Us
 
-The **WAVE Lab** (Wong Attention Vision Encoding Laboratory) at Williams College investigates the neural mechanisms underlying visual attention, perception, and encoding. Our research combines behavioral experiments, computational modeling, and neuroimaging techniques to understand how the brain processes and prioritizes visual information.
+The **WAVE Lab** (Wong Attention Vision Encoding Laboratory) at Williams College explores **visual perception** and **cognition** — investigating the mental processes that underlie how we take raw visual input from the world (a mess of lines and colors) and make sense of it (e.g. forming representations of "objects" and "agents"), guiding our everyday function.
+
+In short, our research delves into the (often) surprising answers to questions such as: **"What do we actually see?"** and **"How do we parse the world into meaningful mental representations?"**
 
 ## 🎯 Research Focus
 
@@ -24,25 +26,26 @@ The **WAVE Lab** (Wong Attention Vision Encoding Laboratory) at Williams College
 <tr>
 <td width="33%" valign="top">
 
-### 👁️ Visual Attention
-Understanding how the brain selects and processes relevant visual information in complex environments
+### 🔎 Attention
+How does mind selects and processes relevant information -- despite the world being a giant mass of constant, undiffrentiated/unsegmented, raw sensory input? 
 
 </td>
 <td width="33%" valign="top">
 
-### 🧮 Computational Modeling
-Developing models to predict and explain attentional mechanisms and visual encoding processes
+### 👁️ Perception
+What do we *see*? What is spontaneously, automatically, involuntarily processed by our visual systems? 
 
 </td>
 <td width="33%" valign="top">
 
-### 🔍 Perception & Memory
-Exploring the relationship between attention, perception, and memory encoding
+### 🔍 Memory
+How do we remember what we see? What mental representations do we form? 
 
 </td>
 </tr>
 </table>
 
+<!-- 
 ## 📚 Featured Projects
 
 <table>
@@ -65,10 +68,11 @@ Exploring the relationship between attention, perception, and memory encoding
 
 </td></tr>
 </table>
+-->
 
 ## 🚀 Getting Started
 
-### For New Graduate Students
+### For New Research Assistants
 
 Welcome to the WAVE Lab! Check out our **[Getting Started Guide](https://github.com/WAVE-Lab-Williams/WAVE-Lab-Williams)** which covers:
 
@@ -77,55 +81,30 @@ Welcome to the WAVE Lab! Check out our **[Getting Started Guide](https://github.
 - 📊 Introduction to our data pipelines
 - 🔧 Lab coding standards and practices
 - 📚 Essential reading list
-- 🤝 Collaboration guidelines
 
 ### Quick Links
 
-- 📖 [Lab Manual](https://github.com/WAVE-Lab-Williams/WAVE-Lab-Williams)
-- 🗓️ [Lab Calendar](https://github.com/WAVE-Lab-Williams/WAVE-Lab-Williams)
-- 💬 [Slack Workspace](https://github.com/WAVE-Lab-Williams/WAVE-Lab-Williams)
-- 📝 [Publication Repository](https://github.com/WAVE-Lab-Williams/WAVE-Lab-Williams)
+- 📖 [Lab Manual](https://wave-lab-williams.github.io/getting-started.html)
+- 🗓️ [Lab Testing Calendar](https://github.com/WAVE-Lab-Williams/WAVE-Lab-Williams)
+- 💬 [Lab Discord Workspace](https://github.com/WAVE-Lab-Williams/WAVE-Lab-Williams)
+- 📝 [Publication Repository](https://wave-lab-williams.github.io/publications.html)
 
 ## 👥 Team
 
 <div align="center">
 
 ### Principal Investigator
-**[Dr. [Your Name] Wong](https://github.com/WAVE-Lab-Williams/WAVE-Lab-Williams)**  
-*Associate Professor of Cognitive Science*
+**[Dr. Kim Wong](https://wave-lab-williams.github.io/people.html)**  
+*Assistant Professor of Psychology*
 
 ### Current Members
-Graduate Students | Postdocs | Research Assistants
+To be updated
 
 </div>
 
-## 📈 Recent Publications
-
-- 🎯 **Wong et al. (2024)** - "Neural mechanisms of selective visual attention in naturalistic scenes" - *Journal of Cognitive Neuroscience*
-- 🧠 **Lab Member et al. (2024)** - "Computational models of attention-memory interactions" - *Nature Human Behaviour*
-- 👁️ **Another Member et al. (2023)** - "Eye movements reveal dynamic attention allocation" - *Psychological Science*
-
-## 🤝 Collaborations
-
-We actively collaborate with researchers at:
-- MIT Brain and Cognitive Sciences
-- Stanford Vision Lab
-- Princeton Neuroscience Institute
-- Yale Perception and Cognition Lab
-
 ## 📬 Contact
 
-**Email**: wavelab@williams.edu  
-**Location**: Science Center, Williams College, Williamstown, MA  
-**Twitter**: [@WAVE_Lab_Williams](https://github.com/WAVE-Lab-Williams/WAVE-Lab-Williams)
-
----
-
-<div align="center">
-
-### 🌊 Advancing our understanding of how the mind sees the world
-
-[![Williams College](https://img.shields.io/badge/Williams_College-512698?style=for-the-badge)](https://github.com/WAVE-Lab-Williams/WAVE-Lab-Williams)
-[![Cognitive Science](https://img.shields.io/badge/Cognitive_Science-FF6B6B?style=for-the-badge)](https://github.com/WAVE-Lab-Williams/WAVE-Lab-Williams)
+**Email**: kww3@williams.edu  
+**Location**: Wachenheim Science Center, Williams College, Williamstown, MA  
 
 </div>
