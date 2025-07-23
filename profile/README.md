@@ -1,8 +1,6 @@
-![WAVE Lab Banner](https://github.com/WAVE-Lab-Williams/WAVE-Lab-Williams/assets/placeholder/banner-image)
-
 <div align="center">
+  <img src="https://wave-lab-williams.github.io/img/logo13-transparent-dark.png" alt="WAVE Lab Banner" width="60%">
   
-# 🧠 WAVE Lab
 ### Wong Attention Vision Encoding Laboratory
 #### Department of Psychology • Williams College
 
