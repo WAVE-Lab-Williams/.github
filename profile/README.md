@@ -5,7 +5,7 @@
 #### Department of Psychology • Williams College
 
 [![Lab Website](https://img.shields.io/badge/Lab_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wave-lab-williams.github.io/)
-[![Getting Started](https://img.shields.io/badge/Getting_Started-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](https://wave-lab-williams.github.io/getting-started.html)
+[![Getting Started](https://img.shields.io/badge/Getting_Started-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](getting-started.md)
 [![PI Website](https://img.shields.io/badge/PI_Profile-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://kimwwong.github.io/)
 
 </div>
