@@ -72,7 +72,7 @@ How do we remember what we see? What mental representations do we form?
 
 ### For New Research Assistants
 
-Welcome to the WAVE Lab! Check out our **[Getting Started Guide](https://github.com/WAVE-Lab-Williams/WAVE-Lab-Williams)** which covers:
+Welcome to the WAVE Lab! Check out our **[Getting Started Guide](getting-started.md)** which covers:
 
 - 📋 Onboarding checklist
 - 💻 Setting up your development environment
