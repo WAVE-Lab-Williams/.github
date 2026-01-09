@@ -78,12 +78,12 @@ Before diving in, let's understand what you'll be working with:
 ### The Big Picture
 
 ```
-┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
-│   Experiments   │    │     Backend      │    │    Analysis     │
+┌─────────────────┐    ┌──────────────────┐     ┌─────────────────┐
+│   Experiments   │    │     Backend      │     │    Analysis     │
 │  (JavaScript)   ├───▶│ PostgreSQL +     ├───▶│    (Python)     │
-│   HTML + CSS    │    │     FastAPI      │    │ Pandas + NumPy  │
-│ + wave-client.js│    │                  │    │ + wave-client   │
-└─────────────────┘    └──────────────────┘    └─────────────────┘
+│   HTML + CSS    │    │     FastAPI      │     │ Pandas + NumPy  │
+│ + wave-client.js│    │                  │     │ + wave-client   │
+└─────────────────┘    └──────────────────┘     └─────────────────┘
 ```
 
 ### What Each Part Does
