@@ -12,13 +12,13 @@
 
 ---
 
-## 🔬 About Us
+## About Us
 
 The **WAVE Lab** (Wong Attention Vision Encoding Laboratory) at Williams College explores **visual perception** and **cognition** — investigating the mental processes that underlie how we take raw visual input from the world (a mess of lines and colors) and make sense of it (e.g. forming representations of "objects" and "agents"), guiding our everyday function.
 
 In short, our research delves into the (often) surprising answers to questions such as: **"What do we actually see?"** and **"How do we parse the world into meaningful mental representations?"**
 
-## 🎯 Research Focus
+## Research Focus
 
 <table>
 <tr>
@@ -36,7 +36,7 @@ What do we *see*? What is spontaneously, automatically, involuntarily processed 
 </td>
 <td width="33%" valign="top">
 
-### 🔍 Memory
+### 🧠 Memory
 How do we remember what we see? What mental representations do we form? 
 
 </td>
@@ -68,17 +68,17 @@ How do we remember what we see? What mental representations do we form?
 </table>
 -->
 
-## 🚀 Getting Started
+## Getting Started
 
 ### For New Research Assistants
 
 Welcome to the WAVE Lab! Check out our **[Getting Started Guide](getting-started.md)** which covers:
 
-- 📋 Onboarding checklist
-- 💻 Setting up your development environment
-- 📊 Introduction to our data pipelines
-- 🔧 Lab coding standards and practices
-- 📚 Essential reading list
+- Onboarding checklist
+- Setting up your development environment
+- Introduction to our data pipelines
+- Lab coding standards and practices
+- Essential reading list
 
 ### Quick Links
 
@@ -96,7 +96,9 @@ Welcome to the WAVE Lab! Check out our **[Getting Started Guide](getting-started
 *Assistant Professor of Psychology*
 
 ### Current Members
-To be updated
+**[Neel Verma, RA](https://wave-lab-williams.github.io/people.html)**  
+**[Eva Liss, RA](https://wave-lab-williams.github.io/people.html)**
+**[Maggie Nichols, RA](https://wave-lab-williams.github.io/people.html)**    
 
 </div>
 
