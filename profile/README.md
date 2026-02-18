@@ -97,7 +97,7 @@ Welcome to the WAVE Lab! Check out our **[Getting Started Guide](getting-started
 
 ### Current Members
 **[Neel Verma, RA](https://wave-lab-williams.github.io/people.html)**  
-**[Eva Liss, RA](https://wave-lab-williams.github.io/people.html)**
+**[Eva Liss, RA](https://wave-lab-williams.github.io/people.html)**  
 **[Maggie Nichols, RA](https://wave-lab-williams.github.io/people.html)**    
 
 </div>
